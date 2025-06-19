@@ -1,7 +1,5 @@
 # Dart Client for Genkit Example
 
-Using the released [Dart client for Genkit](https://pub.dev/packages/genkit) package!
-
 ## Project Structure
 
 ```plain
@@ -151,7 +149,7 @@ final baseUrl = 'https://YOUR_REGION-YOUR_PROJECT_ID.cloudfunctions.net';
 
 ## References
 
--[Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e)
+- [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e)
 - [genkit package (pub.dev)](https://pub.dev/packages/genkit)
 
 ---
