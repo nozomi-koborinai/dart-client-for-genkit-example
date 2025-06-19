@@ -47,6 +47,12 @@ genkit/                          # Genkit server (server side)
 - **[Genkit](https://genkit.dev/)**: An open-source framework for building AI-powered apps, built and used in production by Google
 - **[Dart client for Genkit](https://pub.dev/packages/genkit)**: **Official Genkit client library**
 
+## Demo App
+
+https://github.com/user-attachments/assets/cad341e7-2279-40f0-acd2-8140e8b80776
+
+
+
 ## Genkit Package Features
 
 ### Core Capabilities
@@ -145,6 +151,7 @@ final baseUrl = 'https://YOUR_REGION-YOUR_PROJECT_ID.cloudfunctions.net';
 
 ## References
 
+-[Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e)
 - [genkit package (pub.dev)](https://pub.dev/packages/genkit)
 
 ---
